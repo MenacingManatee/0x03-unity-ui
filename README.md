@@ -1,4 +1,4 @@
-# 0x02 Unity Scripting
+# 0x03 Unity UI
 
 ## About / synopsis
 A maze game made to practice with game objects, prefabs, and scripting.
